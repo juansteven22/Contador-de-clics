@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Contador-de-clics/static/css/main.fe98819c.css",
+    "main.js": "/Contador-de-clics/static/js/main.2ff72ddc.js",
+    "static/media/gato.webp": "/Contador-de-clics/static/media/gato.e24a0a8ac6b7e41a583c.webp",
+    "index.html": "/Contador-de-clics/index.html",
+    "main.fe98819c.css.map": "/Contador-de-clics/static/css/main.fe98819c.css.map",
+    "main.2ff72ddc.js.map": "/Contador-de-clics/static/js/main.2ff72ddc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe98819c.css",
+    "static/js/main.2ff72ddc.js"
+  ]
+}
